@@ -15,7 +15,7 @@ Sou um estudante no segundo ano de Sistemas de informação.
 - C#(.net).
 - MySQL. 
 
- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7346&repo=jon7346&layout=normal)
+ ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7346&repo=jon7346&layout=pizza)
  
 
 
