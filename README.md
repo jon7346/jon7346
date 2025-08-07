@@ -1,17 +1,21 @@
 ## Hi my name is Jonathan👋
+## olá meu nome é Jonathan
 i am a studant in the second year of SI(Systems of information )
-## Actually i now a little about: 
+Sou um estudante no segundo ano de Sistemas de informação.
+## Actually i now a little about:
+## Atualmente sei um pouco de : 
 - HTML. ✔
 - CSS. ✔
 - Javascript. ✔
 - Python. ✔
-## Currently i am studing: 
+## Currently i am studing:
+# Atualmente estou estudando :
 - Node.js. 
 - React. 
 - C#(.net).
-- SQL. 
+- MySQL. 
 
- 
+ ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jon7346&repo=jon7346&layout=compact)
  
 
 
